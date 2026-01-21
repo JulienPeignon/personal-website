@@ -8,5 +8,5 @@ author_profile: true
 University Paris Dauphine - PSL
 =====
 
-- Econometrics [Undergraduate class] (2026)
-- Time series econometrics [Graduate class] (2025)
+- Econometrics [Lecturer, Undergraduate class] (2026)
+- Time series econometrics [Lecturer, Graduate class] (2025)
